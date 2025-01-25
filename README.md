@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1800 | [CF671A](https://codeforces.com/problemset/problem/671/A) | Once a person get to the bin, his "total cost" to get a bottle is always twice the distance between the bottle and the bin. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf671a.md) |
-| 1900 | [CF597C](https://codeforces.com/problemset/problem/597/C) | Recall what you would do when calculating the number of increasing subsequences. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf597c.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF518A](https://codeforces.com/problemset/problem/518/A) | Consider the strings as numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf518a.md) |
+| 2400 | [CF416D](https://codeforces.com/problemset/problem/416/D) | The array can be determined by $2$ elements in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf416d.md) |
